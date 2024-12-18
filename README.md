@@ -1,3 +1,4 @@
+#VocalGPT using Gen AI
 # Voice Assistant using Google Generative AI and Speech Recognition
 
 This project is a voice-based assistant that uses Google Generative AI (`gemini-1.5-flash`) for answering questions. It also integrates speech recognition (`speech_recognition`) and text-to-speech (`pyttsx3`) for interaction.
